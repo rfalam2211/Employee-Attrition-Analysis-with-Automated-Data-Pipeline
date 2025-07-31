@@ -22,7 +22,7 @@ Output berupa visualisasi hasil analisis dalam bentuk grafik.
 
 
 ## Data
-Dataset berasal dari kaggle dengan url
+Dataset berasal dari kaggle
 
 https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset 
 
